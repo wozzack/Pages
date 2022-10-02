@@ -1,9 +1,9 @@
-This site was built using [GitHub Pages](https://pages.github.com/).
+This site was built using [**GitHub Pages**](https://pages.github.com/).
 [README.](/README.md)
 
 [Jump to Cat](https://wozzack.github.io/pages/#cat)
 
-# **Kevin Truong**
+# Kevin Truong
 > Pursuing BS in Computer Science @ UCSD
 
 ## Experience
@@ -33,3 +33,4 @@ directly aiding in the resolution of conflicts between teams and individuals.
 
 ## Cat
 ![Here is a cat](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is not a cat](https://cdn.vectorstock.com/i/1000x1000/75/64/penguin-flat-style-profile-vector-25127564.webp)
