@@ -1,2 +1,2 @@
 # Pages
-For CSE 110 GitHub Pages Project
+Kevin's User Page
