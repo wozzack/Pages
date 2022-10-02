@@ -1,5 +1,7 @@
 This site was built using [GitHub Pages](https://pages.github.com/).
-[README](/README.md)
+[README.](/README.md)
+
+[Jump to Cat](https://wozzack.github.io/pages/#cat)
 
 # **Kevin Truong**
 > Pursuing BS in Computer Science @ UCSD
