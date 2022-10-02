@@ -31,5 +31,5 @@ directly aiding in the resolution of conflicts between teams and individuals.
 
 ## Cat
 ![Here is a cat](https://myoctocat.com/assets/images/base-octocat.svg)
-![This is not a cat](https://cdn.vectorstock.com/i/1000x1000/75/64/penguin-flat-style-profile-vector-25127564.webp)
+![Here is another cat](https://myoctocat.com/assets/images/base-octocat.svg)
 **I love me some penguins.**
