@@ -29,4 +29,5 @@ directly aiding in the resolution of conflicts between teams and individuals.
 - [X] Add Experience
 - [ ] Add Relevant Coursework
 
-![Here is a penguin](https://unsplash.com/images/animals/penguin)
+## Cat
+![Here is a cat](https://myoctocat.com/assets/images/base-octocat.svg)
